@@ -1,0 +1,21 @@
+# Python虚拟环境
+amazon_env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 环境变量文件
+.env
+
+# 输出数据文件
+amazon_product_details_*.csv
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+*.swo 

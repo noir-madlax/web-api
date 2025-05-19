@@ -1,0 +1,9 @@
+# Amazon和Home Depot网页抓取项目依赖
+# 基础HTTP请求库
+requests>=2.31.0
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# API服务
+google-search-results>=2.4.2  # 用于Home Depot搜索 
